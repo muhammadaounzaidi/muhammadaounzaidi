@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Muhammad Aoun Zaidi</h1>
 <h3 align="center">Currently, I'm working as an Associate Software Engineer at Highbit Technologies, specializing in Python/Django development.</h3>
+<ul>
+  <li>🔍 Created a web scraping tool named <strong>BrandSearchEngine</strong> using Selenium, BeautifulSoup, and Pandas for data cleaning. The tool scrapes brand information from Google and finds their Facebook and Instagram pages along with follower counts.</li>
+  <li>📈 Worked on an <strong>Evaluation Portal</strong> for employee evaluations at our company, sending monthly and quarterly emails. Used Django (MVT web app) and several Django inbuilt functionalities such as signals, authentication, SMTP, and context processors.</li>
+  <li>📊 Developed a <strong>Project Tracking System</strong> for MVP/Project tracking, which is live and actively used in the company. Used Django for development.</li>
+</ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammadaounzaidi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammadaounzaidi/" height="30" width="40" /></a>
-</p>
+<h3 align="center">Skills:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<h4>Languages:</h4>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<h4 align="center">Languages:</h4>
+<p align="center"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a> 
@@ -29,8 +31,8 @@
     </a> 
 </p>
 
-<h4>Frameworks:</h4>
-<p align="left"> 
+<h4 align="center">Frameworks:</h4>
+<p align="center"> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
     </a> 
@@ -39,8 +41,8 @@
     </a> 
 </p>
 
-<h4>Databases:</h4>
-<p align="left"> 
+<h4 align="center">Databases:</h4>
+<p align="center"> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     </a> 
@@ -52,8 +54,8 @@
     </a> 
 </p>
 
-<h4>Other:</h4>
-<p align="left"> 
+<h4 align="center">Other:</h4>
+<p align="center"> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a> 
@@ -77,11 +79,10 @@
     </a> 
 </p>
 
-<h3 align="left">Skills:</h3>
-<ul>
-  <li>🔍 Created a web scraping tool named <strong>BrandSearchEngine</strong> using Selenium, BeautifulSoup, and Pandas for data cleaning. The tool scrapes brand information from Google and finds their Facebook and Instagram pages along with follower counts.</li>
-  <li>📈 Worked on an <strong>Evaluation Portal</strong> for employee evaluations at our company, sending monthly and quarterly emails. Used Django (MVT web app) and several Django inbuilt functionalities such as signals, authentication, SMTP, and context processors.</li>
-  <li>📊 Developed a <strong>Project Tracking System</strong> for MVP/Project tracking, which is live and actively used in the company. Used Django for development.</li>
-</ul>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammadaounzaidi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammadaounzaidi/" height="30" width="40" /></a>
+<a href="mailto:zaoun123@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="zaoun123@gmail.com" height="30" width="40" /></a>
+</p>
 
 📫 How to reach me: [zaoun123@gmail.com](mailto:zaoun123@gmail.com)
