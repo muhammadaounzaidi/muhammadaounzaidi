@@ -62,4 +62,4 @@
 </p>
 
 📫 How to reach me: [zaoun123@gmail.com](mailto:zaoun123@gmail.com)
-<img src="https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img align="center" src="https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
