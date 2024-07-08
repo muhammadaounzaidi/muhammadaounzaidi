@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Aoun Zaidi</h1>
 <h3 align="center">Currently, I'm working as an Associate Software Engineer at Highbit Technologies, specializing in Python/Django development.</h3>
-<ul>
+<ul style="margin-top: 200px">
   <li>🔍 Created a web scraping tool named <strong>BrandSearchEngine</strong> using Selenium, BeautifulSoup, and Pandas for data cleaning. The tool scrapes brand information from Google and finds their Facebook and Instagram pages along with follower counts.</li>
   <li>📈 Worked on an <strong>Evaluation Portal</strong> for employee evaluations at our company, sending monthly and quarterly emails. Used Django (MVT web app) and several Django inbuilt functionalities such as signals, authentication, SMTP, and context processors.</li>
   <li>📊 Developed a <strong>Project Tracking System</strong> for MVP/Project tracking, which is live and actively used in the company. Used Django for development.</li>
@@ -8,7 +8,6 @@
 
 <h2>Skills:</h2>
 
-<h3 align="center">Languages and Tools:</h3>
 <h3 align="center">Languages:</h3>
 <p align="center"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -82,7 +81,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammadaounzaidi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammadaounzaidi/" height="30" width="40" /></a>
-<a href="mailto:zaoun123@gmail.com" target="blank"><img align="center" src="https://icons8.com/icon/P7UIlhbpWzZm/gmail" alt="zaoun123@gmail.com" height="30" width="40" /></a>
+
 </p>
 
 📫 How to reach me: [zaoun123@gmail.com](mailto:zaoun123@gmail.com)
