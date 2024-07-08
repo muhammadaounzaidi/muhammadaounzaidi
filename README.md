@@ -62,3 +62,4 @@
 </p>
 
 📫 How to reach me: [zaoun123@gmail.com](mailto:zaoun123@gmail.com)
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
