@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Aoun Zaidi</h1>
-<h3 align="center">Currently, I'm working as an Associate Software Engineer at Highbit Technologies, specializing in Python/Django development.</h3>
-<ul style="margin-top: 200px">
+<h3 align="center">Currently, I'm working as a Software Engineer at Cogent Labs, specializing in Python/Django development.</h3>
+<!-- <ul style="margin-top: 200px">
   <li>🔍 Created a web scraping tool named <strong>BrandSearchEngine</strong> using Selenium, BeautifulSoup, and Pandas for data cleaning. The tool scrapes brand information from Google and finds their Facebook and Instagram pages along with follower counts.</li>
   <li>📈 Worked on an <strong>Evaluation Portal</strong> for employee evaluations at our company, sending monthly and quarterly emails. Used Django (MVT web app) and several Django inbuilt functionalities such as signals, authentication, SMTP, and context processors.</li>
   <li>📊 Developed a <strong>Project Tracking System</strong> for MVP/Project tracking, which is live and actively used in the company. Used Django for development.</li>
-</ul>
+</ul> -->
 
 <h2>Skills:</h2>
 
